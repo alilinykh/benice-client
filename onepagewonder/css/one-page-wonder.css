@@ -1,7 +1,8 @@
-/*!* !*You can add global styles to this file, and also import other style files*!*!*/
-/*@import 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css';*/
-
-
+/*!
+ * Start Bootstrap - One Page Wonder v5.0.6 (https://startbootstrap.com/template-overviews/one-page-wonder)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-one-page-wonder/blob/master/LICENSE)
+ */
 
 body {
   font-family: 'Lato';
@@ -161,4 +162,3 @@ header.masthead .bg-circle-4 {
   -webkit-box-shadow: 0 0 0 0.2rem rgba(255, 106, 0, 0.5);
   box-shadow: 0 0 0 0.2rem rgba(255, 106, 0, 0.5);
 }
-
