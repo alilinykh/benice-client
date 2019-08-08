@@ -6,7 +6,10 @@ The web application helps to store information about acquaintances based on thei
 List of acquaintances/contacts is also available for convenient access at any time on the website.
 
 Technologies used: 
+
 -backend: MySQL Database.
+
 -middleware: SpringBoot.
+
 -frontend: Angular.
 
